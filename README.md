@@ -87,6 +87,11 @@ The app must have the following functionalities
 
 </details>
 
+
+published link code - ccbp publish RJSCPM1V9K elishtxt.ccbp.tech
+
+published link - https://elishtxt.ccbp.tech/
+
 > ### _Things to Keep in Mind_
 >
 > - All components you implement should go in the `src/components` directory.
